@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\AcademyTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F436A7-69CD-47BD-874E-982E820271C4}|AcademyTask\\AcademyTask.csproj|c:\\users\\hp\\source\\repos\\academytask\\academytask\\application\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F436A7-69CD-47BD-874E-982E820271C4}|AcademyTask\\AcademyTask.csproj|solutionrelative:academytask\\application\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|c:\\users\\hp\\source\\repos\\academytask\\baseinformations\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|solutionrelative:baseinformations\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|c:\\users\\hp\\source\\repos\\academytask\\baseinformations\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|solutionrelative:baseinformations\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|c:\\users\\hp\\source\\repos\\academytask\\baseinformations\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|solutionrelative:baseinformations\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F436A7-69CD-47BD-874E-982E820271C4}|AcademyTask\\AcademyTask.csproj|c:\\users\\hp\\source\\repos\\academytask\\academytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F436A7-69CD-47BD-874E-982E820271C4}|AcademyTask\\AcademyTask.csproj|solutionrelative:academytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|c:\\users\\hp\\source\\repos\\academytask\\baseinformations\\controllers\\groupcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|solutionrelative:baseinformations\\controllers\\groupcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|c:\\users\\hp\\source\\repos\\academytask\\baseinformations\\controllers\\facultycontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|solutionrelative:baseinformations\\controllers\\facultycontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|c:\\users\\hp\\source\\repos\\academytask\\baseinformations\\services\\facultyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|solutionrelative:baseinformations\\services\\facultyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|c:\\users\\hp\\source\\repos\\academytask\\baseinformations\\services\\groupservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|solutionrelative:baseinformations\\services\\groupservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|c:\\users\\hp\\source\\repos\\academytask\\baseinformations\\controllers\\studentcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|solutionrelative:baseinformations\\controllers\\studentcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|c:\\users\\hp\\source\\repos\\academytask\\baseinformations\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|solutionrelative:baseinformations\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|c:\\users\\hp\\source\\repos\\academytask\\baseinformations\\services\\teacherservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|solutionrelative:baseinformations\\services\\teacherservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|c:\\users\\hp\\source\\repos\\academytask\\baseinformations\\controllers\\teachercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|solutionrelative:baseinformations\\controllers\\teachercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|c:\\users\\hp\\source\\repos\\academytask\\baseinformations\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|solutionrelative:baseinformations\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|c:\\users\\hp\\source\\repos\\academytask\\baseinformations\\models\\stepacademyy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|solutionrelative:baseinformations\\models\\stepacademyy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F436A7-69CD-47BD-874E-982E820271C4}|AcademyTask\\AcademyTask.csproj|c:\\users\\hp\\source\\repos\\academytask\\academytask\\academytask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8F436A7-69CD-47BD-874E-982E820271C4}|AcademyTask\\AcademyTask.csproj|solutionrelative:academytask\\academytask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|c:\\users\\hp\\source\\repos\\academytask\\baseinformations\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|solutionrelative:baseinformations\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|c:\\users\\hp\\source\\repos\\academytask\\baseinformations\\baseinformations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|solutionrelative:baseinformations\\baseinformations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|c:\\users\\hp\\source\\repos\\academytask\\baseinformations\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39B628-FA71-4B72-B5E8-98E8088613F5}|BaseInformations\\BaseInformations.csproj|solutionrelative:baseinformations\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FacultyControllers.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Controllers\\FacultyControllers.cs",
+              "RelativeDocumentMoniker": "BaseInformations\\Controllers\\FacultyControllers.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Controllers\\FacultyControllers.cs",
+              "RelativeToolTip": "BaseInformations\\Controllers\\FacultyControllers.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwB4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:41:42.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FacultyServices.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Services\\FacultyServices.cs",
+              "RelativeDocumentMoniker": "BaseInformations\\Services\\FacultyServices.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Services\\FacultyServices.cs",
+              "RelativeToolTip": "BaseInformations\\Services\\FacultyServices.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:36:00.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GroupServices.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Services\\GroupServices.cs",
+              "RelativeDocumentMoniker": "BaseInformations\\Services\\GroupServices.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Services\\GroupServices.cs",
+              "RelativeToolTip": "BaseInformations\\Services\\GroupServices.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:24:11.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupControllers.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Controllers\\GroupControllers.cs",
+              "RelativeDocumentMoniker": "BaseInformations\\Controllers\\GroupControllers.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Controllers\\GroupControllers.cs",
+              "RelativeToolTip": "BaseInformations\\Controllers\\GroupControllers.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wCAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:23:55.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TeacherServices.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Services\\TeacherServices.cs",
+              "RelativeDocumentMoniker": "BaseInformations\\Services\\TeacherServices.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Services\\TeacherServices.cs",
+              "RelativeToolTip": "BaseInformations\\Services\\TeacherServices.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:52:40.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeacherControllers.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Controllers\\TeacherControllers.cs",
+              "RelativeDocumentMoniker": "BaseInformations\\Controllers\\TeacherControllers.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Controllers\\TeacherControllers.cs",
+              "RelativeToolTip": "BaseInformations\\Controllers\\TeacherControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:52:25.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Services\\StudentServices.cs",
+              "RelativeDocumentMoniker": "BaseInformations\\Services\\StudentServices.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Services\\StudentServices.cs",
+              "RelativeToolTip": "BaseInformations\\Services\\StudentServices.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:20:44.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentControllers.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Controllers\\StudentControllers.cs",
+              "RelativeDocumentMoniker": "BaseInformations\\Controllers\\StudentControllers.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Controllers\\StudentControllers.cs",
+              "RelativeToolTip": "BaseInformations\\Controllers\\StudentControllers.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:20:26.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StepAcademyy.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Models\\StepAcademyy.cs",
+              "RelativeDocumentMoniker": "BaseInformations\\Models\\StepAcademyy.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Models\\StepAcademyy.cs",
+              "RelativeToolTip": "BaseInformations\\Models\\StepAcademyy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:09:13.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\AcademyTask\\Application\\Menu.cs",
+              "RelativeDocumentMoniker": "AcademyTask\\Application\\Menu.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\AcademyTask\\Application\\Menu.cs",
+              "RelativeToolTip": "AcademyTask\\Application\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:07:39.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AcademyTask",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\AcademyTask\\AcademyTask.csproj",
+              "RelativeDocumentMoniker": "AcademyTask\\AcademyTask.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\AcademyTask\\AcademyTask.csproj",
+              "RelativeToolTip": "AcademyTask\\AcademyTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T10:52:26.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "BaseInformations\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Models\\Group.cs",
+              "RelativeToolTip": "BaseInformations\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:02:37.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "BaseInformations\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Models\\Teacher.cs",
+              "RelativeToolTip": "BaseInformations\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:58:40.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Models\\Faculty.cs",
+              "RelativeDocumentMoniker": "BaseInformations\\Models\\Faculty.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Models\\Faculty.cs",
+              "RelativeToolTip": "BaseInformations\\Models\\Faculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:53:44.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Enum\\Gender.cs",
+              "RelativeDocumentMoniker": "BaseInformations\\Enum\\Gender.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Enum\\Gender.cs",
+              "RelativeToolTip": "BaseInformations\\Enum\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:52:42.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "BaseInformations\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Models\\Student.cs",
+              "RelativeToolTip": "BaseInformations\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:51:29.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BaseInformations\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "BaseInformations\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:49:30.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseInformations",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\BaseInformations.csproj",
+              "RelativeDocumentMoniker": "BaseInformations\\BaseInformations.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\BaseInformations\\BaseInformations.csproj",
+              "RelativeToolTip": "BaseInformations\\BaseInformations.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T10:47:08.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AcademyTask\\AcademyTask\\Program.cs",
+              "RelativeDocumentMoniker": "AcademyTask\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AcademyTask\\AcademyTask\\Program.cs",
+              "RelativeToolTip": "AcademyTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:10:56.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

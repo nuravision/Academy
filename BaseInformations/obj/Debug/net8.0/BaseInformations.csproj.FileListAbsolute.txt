@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\AcademyTask\BaseInformations\bin\Debug\net8.0\BaseInformations.deps.json
+C:\Users\hp\source\repos\AcademyTask\BaseInformations\bin\Debug\net8.0\BaseInformations.dll
+C:\Users\hp\source\repos\AcademyTask\BaseInformations\bin\Debug\net8.0\BaseInformations.pdb
+C:\Users\hp\source\repos\AcademyTask\BaseInformations\obj\Debug\net8.0\BaseInformations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\AcademyTask\BaseInformations\obj\Debug\net8.0\BaseInformations.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\AcademyTask\BaseInformations\obj\Debug\net8.0\BaseInformations.AssemblyInfo.cs
+C:\Users\hp\source\repos\AcademyTask\BaseInformations\obj\Debug\net8.0\BaseInformations.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AcademyTask\BaseInformations\obj\Debug\net8.0\BaseInformations.dll
+C:\Users\hp\source\repos\AcademyTask\BaseInformations\obj\Debug\net8.0\refint\BaseInformations.dll
+C:\Users\hp\source\repos\AcademyTask\BaseInformations\obj\Debug\net8.0\BaseInformations.pdb
+C:\Users\hp\source\repos\AcademyTask\BaseInformations\obj\Debug\net8.0\ref\BaseInformations.dll
